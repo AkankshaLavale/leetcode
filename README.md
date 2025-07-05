@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
+| [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,4 +46,9 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
