@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AkankshaLavale/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0119-pascals-triangle-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 ## Hash Table
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
