@@ -11,6 +11,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +108,12 @@
 |  |
 | ------- |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
+## Sliding Window
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Prefix Sum
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
