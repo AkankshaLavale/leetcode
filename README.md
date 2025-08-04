@@ -36,6 +36,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/AkankshaLavale/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -74,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -121,5 +123,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/AkankshaLavale/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
