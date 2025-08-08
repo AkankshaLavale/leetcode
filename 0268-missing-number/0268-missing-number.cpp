@@ -1,13 +1,21 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
-        int n = nums.size();
-    int total = n * (n + 1) / 2;
-    
-    int sum = 0;
-    for(int num : nums) {
-        sum += num;
+   int missingNumber(vector<int>& nums) {
+    sort(nums.begin(), nums.end());  
+
+    int left = 0, right = nums.size();
+
+   
+    while (left < right) {
+        int mid = left + (right - left) / 2;
+
+        if (nums[mid] > mid) {
+            right = mid;
+        } else {
+            left = mid + 1;
+        }
     }
-       return total-sum;
-    }
+
+    return left;
+}
 };
