@@ -7,8 +7,8 @@ public:
         string s = to_string(n);
         sort(s.begin(), s.end()); 
 
-        for (int i = 0; i < 31; i++) {
-            int power = pow(2, i);
+        for (int i = 0; i < 32; i++) {
+            long long power = pow(2, i);
             string p = to_string(power);
             sort(p.begin(), p.end());
             if (s == p) 
