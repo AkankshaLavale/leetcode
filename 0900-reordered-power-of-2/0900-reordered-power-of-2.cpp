@@ -8,7 +8,7 @@ public:
         sort(s.begin(), s.end()); 
 
         for (int i = 0; i < 31; i++) {
-            long long power = pow(2, i);
+            int  power = pow(2, i);
             string p = to_string(power);
             sort(p.begin(), p.end());
             if (s == p) 
