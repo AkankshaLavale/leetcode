@@ -63,6 +63,7 @@
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/AkankshaLavale/leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/AkankshaLavale/leetcode/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 ## Sliding Window
 |  |
