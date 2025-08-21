@@ -2,8 +2,8 @@ class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
         int n=nums.size();
-        int duplicate =0;
-        int missing =0;
+        int duplicate =-1;
+        int missing =-1;
 
         for(int i=1;i<=n;i++){
             int count=0;
