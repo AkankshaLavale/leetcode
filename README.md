@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AkankshaLavale/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AkankshaLavale/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/AkankshaLavale/leetcode/tree/master/0118-pascals-triangle) |
@@ -63,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
