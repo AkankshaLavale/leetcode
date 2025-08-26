@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/AkankshaLavale/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AkankshaLavale/leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
@@ -36,6 +37,7 @@
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/AkankshaLavale/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
