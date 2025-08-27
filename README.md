@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/AkankshaLavale/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkankshaLavale/leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AkankshaLavale/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
@@ -146,6 +148,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
