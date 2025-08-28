@@ -23,6 +23,7 @@
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AkankshaLavale/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AkankshaLavale/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AkankshaLavale/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
