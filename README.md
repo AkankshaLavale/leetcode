@@ -18,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkankshaLavale/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/AkankshaLavale/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/AkankshaLavale/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
