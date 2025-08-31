@@ -64,6 +64,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -105,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
