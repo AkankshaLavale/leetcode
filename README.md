@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkankshaLavale/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
@@ -106,6 +108,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
