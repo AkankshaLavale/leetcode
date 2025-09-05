@@ -46,6 +46,7 @@
 | [0061-rotate-list](https://github.com/AkankshaLavale/leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AkankshaLavale/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -184,5 +187,6 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkankshaLavale/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/AkankshaLavale/leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
