@@ -26,14 +26,13 @@ public:
             delete temp;
             return head;
         }
-        ListNode*curr=head;
-
+     ListNode*curr=head;
      while(count--){
         prev=curr;
         curr=curr->next;
     }
     prev->next=curr->next;
-    delete curr;
+
     return head;
 
     }
