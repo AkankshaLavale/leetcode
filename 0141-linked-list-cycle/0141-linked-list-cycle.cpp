@@ -18,6 +18,6 @@ public:
             visited[curr]=1;
             curr=curr->next;
         }
-       return false;
+       return 0;
     }
 };
