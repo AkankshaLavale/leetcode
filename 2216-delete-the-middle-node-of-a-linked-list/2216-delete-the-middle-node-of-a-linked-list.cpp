@@ -27,7 +27,7 @@ public:
 
        
         prev->next = slow->next;
-        delete slow;
+        delete (slow);
 
         return head;
     }
