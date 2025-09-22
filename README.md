@@ -101,6 +101,7 @@
 | [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/AkankshaLavale/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
