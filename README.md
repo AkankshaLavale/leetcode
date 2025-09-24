@@ -36,6 +36,7 @@
 | [0141-linked-list-cycle](https://github.com/AkankshaLavale/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkankshaLavale/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@
 | [0009-palindrome-number](https://github.com/AkankshaLavale/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AkankshaLavale/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
@@ -145,6 +147,7 @@
 | [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaLavale/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
