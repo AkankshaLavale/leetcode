@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/AkankshaLavale/leetcode/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
+| [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -111,6 +112,7 @@
 | [0263-ugly-number](https://github.com/AkankshaLavale/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
+| [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -240,4 +242,8 @@
 | [0908-middle-of-the-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
