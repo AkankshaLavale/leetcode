@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkankshaLavale/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AkankshaLavale/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AkankshaLavale/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
@@ -246,4 +248,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AkankshaLavale/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
