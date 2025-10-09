@@ -116,6 +116,7 @@
 | [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AkankshaLavale/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AkankshaLavale/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
@@ -275,4 +276,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkankshaLavale/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkankshaLavale/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AkankshaLavale/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AkankshaLavale/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
