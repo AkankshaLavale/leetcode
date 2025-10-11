@@ -1,25 +1,20 @@
 class Solution {
 public:
     bool isValid(string s) {
-        string temp;  
+       stack<int>st;
+       for(char c : s ){
+        if(c=='('||c=='{'||c=='['){
+            st.push(c);
+        }else{
 
-        for (char ch : s) {
-            if (ch == '(' || ch == '{' || ch == '[') {
-                temp += ch;  
-            } else {
-                if (temp.empty()) return false;  
-
-                char last = temp.back(); 
-                if ((ch == ')' && last == '(') ||
-                    (ch == '}' && last == '{') ||
-                    (ch == ']' && last == '[')) {
-                    temp.pop_back();  
-                } else {
-                    return false;  
-                }
+            if(st.empty()) return false;
+            char top = st.top();
+            st.pop();
+            if((c==')' && top!='(' ) ||(c=='}' && top!='{' ) ||(c==']' && top!='[' ) ){
+                return false;
             }
         }
-
-        return temp.empty();  
+       }
+       return st.empty();
     }
 };
