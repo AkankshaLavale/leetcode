@@ -163,6 +163,7 @@
 | [0014-longest-common-prefix](https://github.com/AkankshaLavale/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/AkankshaLavale/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
