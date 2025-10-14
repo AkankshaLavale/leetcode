@@ -121,6 +121,7 @@
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkankshaLavale/leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
@@ -169,6 +170,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaLavale/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AkankshaLavale/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AkankshaLavale/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
