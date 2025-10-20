@@ -46,6 +46,7 @@
 | [0169-majority-element](https://github.com/AkankshaLavale/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/AkankshaLavale/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/AkankshaLavale/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
@@ -174,6 +175,7 @@
 | [0165-compare-version-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AkankshaLavale/leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AkankshaLavale/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
@@ -192,6 +194,7 @@
 | [0169-majority-element](https://github.com/AkankshaLavale/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AkankshaLavale/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AkankshaLavale/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AkankshaLavale/leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
