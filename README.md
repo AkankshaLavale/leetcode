@@ -44,6 +44,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AkankshaLavale/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/AkankshaLavale/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AkankshaLavale/leetcode/tree/master/0242-valid-anagram) |
@@ -175,6 +176,7 @@
 | [0165-compare-version-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkankshaLavale/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AkankshaLavale/leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkankshaLavale/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
