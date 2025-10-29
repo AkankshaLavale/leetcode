@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkankshaLavale/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/AkankshaLavale/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AkankshaLavale/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -119,6 +120,7 @@
 | [0002-add-two-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AkankshaLavale/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/AkankshaLavale/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AkankshaLavale/leetcode/tree/master/0067-add-binary) |
@@ -169,6 +171,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AkankshaLavale/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AkankshaLavale/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0020-valid-parentheses) |
