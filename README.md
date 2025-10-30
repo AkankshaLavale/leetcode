@@ -135,6 +135,7 @@
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
+| [1260-day-of-the-year](https://github.com/AkankshaLavale/leetcode/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkankshaLavale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/AkankshaLavale/leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
@@ -191,6 +192,7 @@
 | [0541-reverse-string-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0541-reverse-string-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaLavale/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AkankshaLavale/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1260-day-of-the-year](https://github.com/AkankshaLavale/leetcode/tree/master/1260-day-of-the-year) |
 ## Divide and Conquer
 |  |
 | ------- |
