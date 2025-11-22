@@ -4,8 +4,7 @@ public:
 
         int start=0;
         int end = s.length()-1;
-        transform(s.begin(), s.end(), s.begin(), ::tolower);
-
+        
         while(start<end){
 
             if(!isalnum(s[start])){
@@ -17,7 +16,7 @@ public:
                 continue;
             }
 
-            if(s[start]!=s[end]){
+            if(tolower(s[start])!=tolower(s[end])){
 
                 return false;
             }
