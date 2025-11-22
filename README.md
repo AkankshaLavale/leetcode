@@ -31,6 +31,7 @@
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkankshaLavale/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -82,6 +83,7 @@
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/AkankshaLavale/leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -221,6 +223,7 @@
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AkankshaLavale/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
