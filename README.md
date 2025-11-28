@@ -33,6 +33,7 @@
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -60,6 +61,7 @@
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkankshaLavale/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -88,6 +90,7 @@
 | [0696-count-binary-substrings](https://github.com/AkankshaLavale/leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -97,6 +100,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -231,6 +235,7 @@
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AkankshaLavale/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
