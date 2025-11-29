@@ -1,39 +1,60 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> res;
-        int n = nums.size();
-        if (n < 3) return res;
-        
-        sort(nums.begin(), nums.end()); // sort first
-        
-        for (int i = 0; i < n - 2; ++i) {
+
+    vector<vector<int>> res;
+    vector<int> nums;        
+
+    void twoSum(int f) {
+
+        int i = f + 1;
+        int j = nums.size() - 1;
+
+        while (i < j) {
+
+            int sum = nums[f] + nums[i] + nums[j];
+
+            if (sum > 0) {
+                j--;
+            }
+            else if (sum < 0) {
+                i++;
+            }
+            else {
           
-            if (i > 0 && nums[i] == nums[i-1]) continue;
-            
-            int target = -nums[i];
-            int l = i + 1, r = n - 1;
-            
-            while (l < r) {
-                int sum = nums[l] + nums[r];
-                if (sum < target) {
-                    ++l;
-                } else if (sum > target) {
-                    --r;
-                } else {
-                    
-                    res.push_back({nums[i], nums[l], nums[r]});
-                    
-                   
-                    while (l < r && nums[l] == nums[l+1]) ++l;
-                  
-                    while (l < r && nums[r] == nums[r-1]) --r;
-                    
-                    ++l; --r;
+                res.push_back({nums[f], nums[i], nums[j]});
+
+                i++;
+                j--;
+
+         
+                while (i < j && nums[i] == nums[i - 1]) {
+                    i++;
+                }
+
+                while (i < j && nums[j] == nums[j + 1]) {
+                    j--;
                 }
             }
         }
-        
+    }
+
+    vector<vector<int>> threeSum(vector<int>& arr) {
+
+        nums = arr;                      
+        sort(nums.begin(), nums.end());  
+
+        int n = nums.size();
+
+        for (int f = 0; f < n - 2; f++) {
+
+            if (nums[f] > 0) break;     
+
+            if (f == 0 || nums[f] != nums[f - 1]) {
+
+                twoSum(f);              
+            }
+        }
+
         return res;
     }
 };
