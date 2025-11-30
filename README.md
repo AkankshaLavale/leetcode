@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/AkankshaLavale/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AkankshaLavale/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkankshaLavale/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AkankshaLavale/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AkankshaLavale/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkankshaLavale/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AkankshaLavale/leetcode/tree/master/0141-linked-list-cycle) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AkankshaLavale/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AkankshaLavale/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkankshaLavale/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AkankshaLavale/leetcode/tree/master/0179-largest-number) |
