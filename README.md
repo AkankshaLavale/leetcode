@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/AkankshaLavale/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkankshaLavale/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AkankshaLavale/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AkankshaLavale/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/AkankshaLavale/leetcode/tree/master/0496-next-greater-element-i) |
@@ -86,6 +87,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AkankshaLavale/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AkankshaLavale/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +107,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaLavale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkankshaLavale/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -170,6 +173,7 @@
 | [0136-single-number](https://github.com/AkankshaLavale/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AkankshaLavale/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkankshaLavale/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AkankshaLavale/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AkankshaLavale/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
