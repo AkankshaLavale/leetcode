@@ -24,6 +24,7 @@
 | [0179-largest-number](https://github.com/AkankshaLavale/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AkankshaLavale/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/AkankshaLavale/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkankshaLavale/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -290,6 +291,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AkankshaLavale/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Backtracking
 |  |
