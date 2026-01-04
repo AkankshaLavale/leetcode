@@ -39,6 +39,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/AkankshaLavale/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/AkankshaLavale/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -68,6 +69,7 @@
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1748-sum-of-unique-elements](https://github.com/AkankshaLavale/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkankshaLavale/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -277,6 +279,7 @@
 | [0169-majority-element](https://github.com/AkankshaLavale/leetcode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/AkankshaLavale/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkankshaLavale/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
