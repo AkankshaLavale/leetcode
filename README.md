@@ -41,6 +41,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/AkankshaLavale/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/AkankshaLavale/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/AkankshaLavale/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -119,6 +120,7 @@
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/AkankshaLavale/leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/AkankshaLavale/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
