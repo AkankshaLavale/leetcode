@@ -36,6 +36,7 @@
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/AkankshaLavale/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
@@ -121,6 +122,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/AkankshaLavale/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/AkankshaLavale/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
