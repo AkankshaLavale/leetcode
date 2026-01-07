@@ -9,7 +9,7 @@ public:
             bool found = false;
 
             while (low <= high) {
-                int mid = low + (high - low) / 2;
+                int mid = (low + high) / 2;
 
                 if (abs(arr2[mid] - x) <= d) {
                     found = true;
