@@ -45,6 +45,7 @@
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkankshaLavale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AkankshaLavale/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/AkankshaLavale/leetcode/tree/master/0888-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -80,6 +81,7 @@
 | [0389-find-the-difference](https://github.com/AkankshaLavale/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AkankshaLavale/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/AkankshaLavale/leetcode/tree/master/0888-fair-candy-swap) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -142,6 +144,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkankshaLavale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AkankshaLavale/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/AkankshaLavale/leetcode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/AkankshaLavale/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -283,6 +286,7 @@
 | [0414-third-maximum-number](https://github.com/AkankshaLavale/leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/AkankshaLavale/leetcode/tree/master/0888-fair-candy-swap) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
