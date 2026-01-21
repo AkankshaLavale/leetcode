@@ -43,6 +43,7 @@
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/AkankshaLavale/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/AkankshaLavale/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkankshaLavale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkankshaLavale/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AkankshaLavale/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AkankshaLavale/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Backtracking
