@@ -47,6 +47,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkankshaLavale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AkankshaLavale/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/AkankshaLavale/leetcode/tree/master/0888-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0867-transpose-matrix) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AkankshaLavale/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
@@ -418,6 +420,7 @@
 | [0067-add-binary](https://github.com/AkankshaLavale/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AkankshaLavale/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
