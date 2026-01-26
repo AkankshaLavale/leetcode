@@ -2,40 +2,44 @@ class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         vector<int> ans;
+        int row = matrix.size();
+        int col = matrix[0].size();
 
-        int n = matrix.size();
-        int m = matrix[0].size();
+        int startRow = 0;
+        int startCol = 0;
+        int endRow = row-1;
+        int endCol = col-1;
 
-        int top = 0, bottom = n - 1;
-        int left = 0, right = m - 1;
+        int count = 0;
+        int total = row*col;
 
-        while (top <= bottom && left <= right) {
+        while(count<total){
 
-            // 1) top row
-            for (int col = left; col <= right; col++)
-                ans.push_back(matrix[top][col]);
-            top++;
-
-            // 2) right column
-            for (int row = top; row <= bottom; row++)
-                ans.push_back(matrix[row][right]);
-            right--;
-
-            // 3) bottom row
-            if (top <= bottom) {
-                for (int col = right; col >= left; col--)
-                    ans.push_back(matrix[bottom][col]);
-                bottom--;
+            for(int index = startCol ; index <= endCol && count < total ; index++){
+                ans.push_back(matrix[startRow][index]);
+                count++;
             }
+            startRow++;
 
-            // 4) left column
-            if (left <= right) {
-                for (int row = bottom; row >= top; row--)
-                    ans.push_back(matrix[row][left]);
-                left++;
+            for(int index = startRow;index<=endRow && count < total;index++){
+                ans.push_back(matrix[index][endCol]);
+                count++;
             }
+            endCol--;
+
+            for(int index = endCol;index>=startCol && count < total;index--){
+                ans.push_back(matrix[endRow][index]);
+                count++;
+            }
+            endRow--;
+
+            for(int index = endRow;index>=startRow && count < total;index--){
+                ans.push_back(matrix[index][startCol]);
+                count++;
+            }
+            startCol++;
+
         }
-
         return ans;
     }
 };
