@@ -89,6 +89,7 @@
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AkankshaLavale/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AkankshaLavale/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/AkankshaLavale/leetcode/tree/master/0645-set-mismatch) |
@@ -280,6 +281,7 @@
 | [0242-valid-anagram](https://github.com/AkankshaLavale/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AkankshaLavale/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AkankshaLavale/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AkankshaLavale/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
@@ -345,6 +347,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AkankshaLavale/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/0948-sort-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/AkankshaLavale/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -420,6 +423,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkankshaLavale/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkankshaLavale/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
