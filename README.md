@@ -289,6 +289,7 @@
 | [0680-valid-palindrome-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AkankshaLavale/leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/AkankshaLavale/leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/AkankshaLavale/leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/AkankshaLavale/leetcode/tree/master/0917-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaLavale/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/AkankshaLavale/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -441,4 +442,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/AkankshaLavale/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AkankshaLavale/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AkankshaLavale/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
