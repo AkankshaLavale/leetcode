@@ -296,6 +296,7 @@
 | [1108-defanging-an-ip-address](https://github.com/AkankshaLavale/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AkankshaLavale/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/AkankshaLavale/leetcode/tree/master/1260-day-of-the-year) |
+| [1859-sorting-the-sentence](https://github.com/AkankshaLavale/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaLavale/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1859-sorting-the-sentence](https://github.com/AkankshaLavale/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkankshaLavale/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
