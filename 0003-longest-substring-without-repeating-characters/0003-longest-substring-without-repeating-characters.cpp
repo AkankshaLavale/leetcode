@@ -11,9 +11,10 @@ public:
              frq[s[start]]=0;
              start++;
             }
-            ans = max(ans,end-start+1);
+           
             frq[s[end]]=1;
             end++;
+            ans = max(ans,end-start);
 
         }
       return ans;
