@@ -63,6 +63,7 @@
 | [1748-sum-of-unique-elements](https://github.com/AkankshaLavale/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AkankshaLavale/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkankshaLavale/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AkankshaLavale/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AkankshaLavale/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -101,6 +102,7 @@
 | [0940-fruit-into-baskets](https://github.com/AkankshaLavale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AkankshaLavale/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/AkankshaLavale/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AkankshaLavale/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AkankshaLavale/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -255,6 +257,7 @@
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkankshaLavale/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkankshaLavale/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/AkankshaLavale/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkankshaLavale/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2689-rearranging-fruits](https://github.com/AkankshaLavale/leetcode/tree/master/2689-rearranging-fruits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AkankshaLavale/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AkankshaLavale/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -395,6 +399,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AkankshaLavale/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Linked List
 |  |
