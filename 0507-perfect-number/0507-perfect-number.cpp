@@ -8,8 +8,13 @@ public:
             sum+=i;
            }
         }  
-       if(num==sum) return true;
-      else 
-        return false;  
+       if(num==sum){
+        return true;
+       } 
+      else{
+        return false;
+    
+      }
+          
     }
 };
