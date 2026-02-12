@@ -225,6 +225,7 @@
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkankshaLavale/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/AkankshaLavale/leetcode/tree/master/0507-perfect-number) |
 | [0830-largest-triangle-area](https://github.com/AkankshaLavale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/AkankshaLavale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/1013-fibonacci-number) |
