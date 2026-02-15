@@ -298,6 +298,7 @@
 | [0389-find-the-difference](https://github.com/AkankshaLavale/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AkankshaLavale/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/AkankshaLavale/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AkankshaLavale/leetcode/tree/master/0696-count-binary-substrings) |
@@ -466,5 +467,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/AkankshaLavale/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/AkankshaLavale/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
