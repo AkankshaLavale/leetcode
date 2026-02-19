@@ -310,6 +310,7 @@
 | [1108-defanging-an-ip-address](https://github.com/AkankshaLavale/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AkankshaLavale/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/AkankshaLavale/leetcode/tree/master/1260-day-of-the-year) |
+| [1446-consecutive-characters](https://github.com/AkankshaLavale/leetcode/tree/master/1446-consecutive-characters) |
 | [1859-sorting-the-sentence](https://github.com/AkankshaLavale/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Divide and Conquer
 |  |
