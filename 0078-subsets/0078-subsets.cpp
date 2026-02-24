@@ -1,24 +1,28 @@
 class Solution {
 public:
-    void subsequence(vector<int>& arr, int index, vector<vector<int>>& ans, vector<int>& temp) {
-        if (index == arr.size()) {
-            ans.push_back(temp);
+    void solve(vector<int>&nums,int index,vector<int>&current,vector<vector<int>>&result){
+
+        if(index==nums.size()){
+            result.push_back(current);
             return;
         }
 
-      
-        subsequence(arr, index + 1, ans, temp);
+        current.push_back(nums[index]);
+        solve(nums,index+1,current,result);
 
-        temp.push_back(arr[index]);
-        subsequence(arr, index + 1, ans, temp);
+        current.pop_back();
 
-        temp.pop_back();
+        solve(nums,index+1,current,result);
     }
 
+
+
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> temp;
-        subsequence(nums, 0, ans, temp);
-        return ans;
+        vector<vector<int>>result;
+        vector<int>current;
+
+        solve(nums,0,current,result);
+
+        return result;
     }
 };
