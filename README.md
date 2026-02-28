@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/AkankshaLavale/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/AkankshaLavale/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AkankshaLavale/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AkankshaLavale/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/AkankshaLavale/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AkankshaLavale/leetcode/tree/master/0066-plus-one) |
@@ -414,6 +415,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkankshaLavale/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AkankshaLavale/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/AkankshaLavale/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AkankshaLavale/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0090-subsets-ii) |
 ## Enumeration
