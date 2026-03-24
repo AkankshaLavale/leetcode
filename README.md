@@ -69,6 +69,7 @@
 | [1539-kth-missing-positive-number](https://github.com/AkankshaLavale/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/AkankshaLavale/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AkankshaLavale/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AkankshaLavale/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkankshaLavale/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkankshaLavale/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AkankshaLavale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -472,6 +473,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AkankshaLavale/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkankshaLavale/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AkankshaLavale/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
@@ -480,6 +482,7 @@
 | [0258-add-digits](https://github.com/AkankshaLavale/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0867-transpose-matrix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AkankshaLavale/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
 | ------- |
