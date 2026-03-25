@@ -143,6 +143,7 @@
 | [0611-valid-triangle-number](https://github.com/AkankshaLavale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AkankshaLavale/leetcode/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/AkankshaLavale/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AkankshaLavale/leetcode/tree/master/0917-reverse-only-letters) |
@@ -206,6 +207,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AkankshaLavale/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AkankshaLavale/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AkankshaLavale/leetcode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/AkankshaLavale/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaLavale/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaLavale/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AkankshaLavale/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -315,6 +317,7 @@
 | [0696-count-binary-substrings](https://github.com/AkankshaLavale/leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/AkankshaLavale/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/AkankshaLavale/leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/AkankshaLavale/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AkankshaLavale/leetcode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaLavale/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaLavale/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -484,6 +487,7 @@
 | [0067-add-binary](https://github.com/AkankshaLavale/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AkankshaLavale/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/AkankshaLavale/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0867-transpose-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AkankshaLavale/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
