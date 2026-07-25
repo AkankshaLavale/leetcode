@@ -1,31 +1,31 @@
 class Solution {
 public:
-
-
-     bool isVowel(char c) {
-        c = tolower(c);  // Make comparison case-insensitive
-        return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');
-    }
     string reverseVowels(string s) {
-        int start=0;
-        int end=s.size()-1;
+        int i = 0;
+        int j = s.length() - 1;
 
-        while(start<end){
-            while(start<end && !isVowel(s[start])){
-                start++;
+        while (i < j) {
+
+            // Move i until it points to a vowel
+            if (s[i] != 'A' && s[i] != 'E' && s[i] != 'I' && s[i] != 'O' && s[i] != 'U' &&
+                s[i] != 'a' && s[i] != 'e' && s[i] != 'i' && s[i] != 'o' && s[i] != 'u') {
+                i++;
             }
-        
-        while(start<end && !isVowel(s[end])){
-            end--;
-        } 
-        if(start<end){
-            swap(s[start],s[end]);
-            start++;
-            end--;
-        }  
 
-        } 
+            // Move j until it points to a vowel
+            else if (s[j] != 'A' && s[j] != 'E' && s[j] != 'I' && s[j] != 'O' && s[j] != 'U' &&
+                     s[j] != 'a' && s[j] != 'e' && s[j] != 'i' && s[j] != 'o' && s[j] != 'u') {
+                j--;
+            }
 
-        return s;    
+            // Both are vowels
+            else {
+                swap(s[i], s[j]);
+                i++;
+                j--;
+            }
+        }
+
+        return s;
     }
 };
