@@ -240,6 +240,7 @@
 | [0268-missing-number](https://github.com/AkankshaLavale/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkankshaLavale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkankshaLavale/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/AkankshaLavale/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/AkankshaLavale/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AkankshaLavale/leetcode/tree/master/0509-fibonacci-number) |
@@ -313,6 +314,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AkankshaLavale/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AkankshaLavale/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AkankshaLavale/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/AkankshaLavale/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AkankshaLavale/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/AkankshaLavale/leetcode/tree/master/0541-reverse-string-ii) |
@@ -490,6 +492,7 @@
 | [0054-spiral-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AkankshaLavale/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AkankshaLavale/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/AkankshaLavale/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AkankshaLavale/leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/AkankshaLavale/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/AkankshaLavale/leetcode/tree/master/0867-transpose-matrix) |
